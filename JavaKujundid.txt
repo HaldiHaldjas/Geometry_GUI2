@@ -1,0 +1,322 @@
+Valitud kujund: Kera
+Vastused:
+Raadius: 7.00
+Ümbermõõt: 43.98
+Pindala: 615.75
+Ruumala: 1436.76
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 7.00
+Ümbermõõt: 43.98
+Pindala: 615.75
+Ruumala: 1436.76
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 7.000000
+Ümbermõõt: 43.982297
+Pindala: 615.752160
+Ruumala: 1436.755040
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 7.000000
+Ümbermõõt: 43.982297
+Pindala: 615.752160
+Ruumala: 1436.755040
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 9.000000
+Ümbermõõt: 56.548668
+Pindala: 1017.876020
+Ruumala: 3053.628059
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 9.000000
+Ümbermõõt: 56.548668
+Pindala: 1017.876020
+Ruumala: 3053.628059
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 4.000000
+Kõrgus: 4.000000
+Kogupindala: 201.061930
+Külgpindala: 100.530965
+Ruumala: 201.061930
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 4.000000
+Kõrgus: 4.000000
+Kogupindala: 201.061930
+Külgpindala: 100.530965
+Ruumala: 201.061930
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 7.000000
+Kõrgus: 8.000000
+Kogupindala: 659.734457
+Külgpindala: 351.858377
+Ruumala: 1231.504320
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 7.000000
+Kõrgus: 8.000000
+Kogupindala: 659.734457
+Külgpindala: 351.858377
+Ruumala: 1231.504320
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 6.000000
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 6.000000
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 6.000000
+Kõrgus: 66.000000
+Kogupindala: 2714.336053
+Külgpindala: 2488.141382
+Ruumala: 7464.424145
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 6.000000
+Kõrgus: 66.000000
+Kogupindala: 2714.336053
+Külgpindala: 2488.141382
+Ruumala: 7464.424145
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 6.000000
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 6.000000
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 6.000000
+Kõrgus: 6.00000
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 6.000000
+Kõrgus: 6.00000
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 5.000000
+Ümbermõõt: 31.415927
+Pindala: 314.159265
+Ruumala: 523.598776
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 5.000000
+Ümbermõõt: 31.415927
+Pindala: 314.159265
+Ruumala: 523.598776
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 56.000000
+Ümbermõõt: 351.858377
+Pindala: 39408.138247
+Ruumala: 735618.580604
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 56.000000
+Ümbermõõt: 351.858377
+Pindala: 39408.138247
+Ruumala: 735618.580604
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 55.000000
+Kõrgus: 55.00000
+Kogupindala: 38013.271108
+Külgpindala: 19006.635554
+Ruumala: 522682.477741
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 55.000000
+Kõrgus: 55.00000
+Kogupindala: 38013.271108
+Külgpindala: 19006.635554
+Ruumala: 522682.477741
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 7.000000
+Ümbermõõt: 43.982297
+Pindala: 615.752160
+Ruumala: 1436.755040
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 7.000000
+Ümbermõõt: 43.982297
+Pindala: 615.752160
+Ruumala: 1436.755040
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 8.000000
+Ümbermõõt: 50.265482
+Pindala: 804.247719
+Ruumala: 2144.660585
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 8.000000
+Ümbermõõt: 50.265482
+Pindala: 804.247719
+Ruumala: 2144.660585
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 8.000000
+Ümbermõõt: 50.265482
+Pindala: 804.247719
+Ruumala: 2144.660585
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 8.000000
+Ümbermõõt: 50.265482
+Pindala: 804.247719
+Ruumala: 2144.660585
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 8.000000
+Kõrgus: 8.00000
+Kogupindala: 804.247719
+Külgpindala: 402.123860
+Ruumala: 1608.495439
+%n%nValitud kujund: Silinder
+Vastused:
+Raadius: 8.000000
+Kõrgus: 8.00000
+Kogupindala: 804.247719
+Külgpindala: 402.123860
+Ruumala: 1608.495439
+%n%nValitud kujund: Kera
+Vastused:
+Raadius: 6.0
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 6.0
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+
+
+Valitud kujund: Silinder
+Vastused:
+Raadius: 6.0
+Kõrgus: 6.0
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+
+
+Valitud kujund: Silinder
+Vastused:
+Raadius: 6.0
+Kõrgus: 6.0
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 66.0
+Ümbermõõt: 414.690230
+Pindala: 54739.110396
+Ruumala: 1204260.428715
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 66.0
+Ümbermõõt: 414.690230
+Pindala: 54739.110396
+Ruumala: 1204260.428715
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 6.0
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 6.0
+Ümbermõõt: 37.699112
+Pindala: 452.389342
+Ruumala: 904.778684
+
+
+Valitud kujund: Silinder
+Vastused:
+Raadius: 6.0
+Kõrgus: 6.0
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+
+
+Valitud kujund: Silinder
+Vastused:
+Raadius: 6.0
+Kõrgus: 6.0
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+
+
+Valitud kujund: Silinder
+Vastused:
+Raadius: 6.0
+Kõrgus: 6.0
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+
+
+Valitud kujund: Silinder
+Vastused:
+Raadius: 6.0
+Kõrgus: 6.0
+Kogupindala: 452.389342
+Külgpindala: 226.194671
+Ruumala: 678.584013
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 7.0
+Ümbermõõt: 43.982297
+Pindala: 615.752160
+Ruumala: 1436.755040
+
+
+Valitud kujund: Kera
+Vastused:
+Raadius: 7.0
+Ümbermõõt: 43.982297
+Pindala: 615.752160
+Ruumala: 1436.755040
+
+

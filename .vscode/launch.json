@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Geometry_GUI2_8874b3da"
+        },
+        {
+            "type": "java",
+            "name": "App.java",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Geometry_GUI2"
+        }
+    ]
+}
+
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "type": "java",
+//             "name": "Run App",
+//             "request": "launch",
+//             "mainClass": "App",
+//             "projectName": "Geometry_GUI2_8874b3da",
+//             "args": ""
+//         },
+//         {
+//             "type": "java",
+//             "name": "Debug App",
+//             "request": "launch",
+//             "mainClass": "App",
+//             "projectName": "Geometry_GUI2_8874b3da",
+//             "args": "",
+//             "stopOnEntry": false,
+//             "jvmArgs": ""
+//         }
+//     ]
+// }
